@@ -1,0 +1,6 @@
+Ordem de execução
+escreverTXT
+leituraTXT
+leituraNUMEROS
+addInfoTXT
+copiarConteudo
